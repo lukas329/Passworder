@@ -1,0 +1,3 @@
+Heslo: Password1-- čas: 0-- vlákna: 3
+Heslo: Hello5555-- čas: 43-- vlákna: 4
+Heslo: password1-- čas: 0-- vlákna: 1
